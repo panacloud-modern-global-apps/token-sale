@@ -5,3 +5,5 @@
 [How to Start a Token Sale](https://www.paradoxgroup.co/how-to-start-a-token-sale/)
 
 [ICO 101: A beginner’s guide to raising capital using cryptocurrencies](https://cointelegraph.com/funding-for-beginners/ico-101-a-beginners-guide-to-raising-capital-using-cryptocurrencies)
+
+[Private Token Sales: How Crypto Is Changing Venture Capital](https://pontem.network/posts/private-token-sales-how-crypto-is-changing-venture-capital)
